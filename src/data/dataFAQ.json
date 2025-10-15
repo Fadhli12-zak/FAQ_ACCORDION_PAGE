@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "pertanyaan": "Apa saja layanan desain yang Anda tawarkan?",
+    "jawaban": "Kami menawarkan berbagai layanan, termasuk desain logo, branding kit, desain media sosial, materi pemasaran (brosur, pamflet), dan ilustrasi kustom sesuai kebutuhan bisnis Anda."
+  },
+  {
+    "id": 2,
+    "pertanyaan": "Berapa lama proses pengerjaan untuk sebuah logo?",
+    "jawaban": "Proses desain logo biasanya memakan waktu antara 5 hingga 10 hari kerja. Ini sudah termasuk tahap riset, pembuatan beberapa konsep awal, hingga revisi akhir berdasarkan masukan Anda."
+  },
+  {
+    "id": 3,
+    "pertanyaan": "Bagaimana jika saya tidak puas dengan desain awalnya?",
+    "jawaban": "Paket layanan kami sudah termasuk 2 hingga 3 sesi revisi. Kami akan bekerja sama dengan Anda untuk memperbaiki dan menyesuaikan desain hingga sesuai dengan visi dan ekspektasi Anda."
+  },
+  {
+    "id": 4,
+    "pertanyaan": "Format file apa saja yang akan saya dapatkan?",
+    "jawaban": "Anda akan menerima semua format file standar industri yang Anda butuhkan, seperti AI (vektor), EPS, PDF, JPG, dan PNG (dengan latar belakang transparan) untuk keperluan cetak dan digital."
+  },
+  {
+    "id": 5,
+    "pertanyaan": "Bagaimana struktur harga layanan Anda?",
+    "jawaban": "Harga kami bervariasi tergantung pada kompleksitas proyek. Kami akan memberikan penawaran harga kustom setelah diskusi awal. Proyek biasanya dimulai dengan pembayaran uang muka sebesar 50%."
+  },
+  {
+    "id": 6,
+    "pertanyaan": "Siapa yang akan memegang hak cipta atas desain final?",
+    "jawaban": "Setelah pembayaran penuh dilunasi, hak cipta penuh atas desain final akan dialihkan sepenuhnya kepada Anda. Kami hanya berhak menampilkannya dalam portofolio kami."
+  },
+  {
+    "id": 7,
+    "pertanyaan": "Informasi apa yang perlu saya siapkan sebelum proyek dimulai?",
+    "jawaban": "Sangat membantu jika Anda sudah memiliki ringkasan (brief) tentang bisnis Anda, target audiens, dan referensi gaya desain yang Anda sukai. Namun, jika belum ada, kami akan memandu Anda dalam prosesnya."
+  },
+  {
+    "id": 8,
+    "pertanyaan": "Bagaimana cara kita berkomunikasi selama proyek berjalan?",
+    "jawaban": "Komunikasi utama akan dilakukan melalui email untuk dokumentasi. Kami juga bisa menjadwalkan panggilan video untuk diskusi yang lebih mendalam pada setiap tahap penting proyek."
+  }
+]
